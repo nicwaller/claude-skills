@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "A minimal example plugin with a hello-world skill.",
+  "author": {
+    "name": "Nic Waller",
+    "email": "nicwaller@gmail.com"
+  }
+}
