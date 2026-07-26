@@ -1,0 +1,9 @@
+{
+  "name": "yoke",
+  "version": "0.1.0",
+  "description": "Explains basic usage of the yoke CLI, a Helm-inspired programmatic Kubernetes package deployer.",
+  "author": {
+    "name": "Nic Waller",
+    "email": "nicwaller@gmail.com"
+  }
+}

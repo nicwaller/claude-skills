@@ -5,5 +5,11 @@
     "name": "Nic Waller",
     "email": "nicwaller@gmail.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "yoke",
+      "source": "./plugins/yoke",
+      "description": "Explains basic usage of the yoke CLI, a Helm-inspired programmatic Kubernetes package deployer."
+    }
+  ]
 }
