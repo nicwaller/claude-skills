@@ -10,6 +10,11 @@
       "name": "yoke",
       "source": "./plugins/yoke",
       "description": "Explains basic usage of the yoke CLI, a Helm-inspired programmatic Kubernetes package deployer."
+    },
+    {
+      "name": "pangolin",
+      "source": "./plugins/pangolin",
+      "description": "Manage Pangolin (pangolin.net) public resources, targets, health checks, and access policies via its REST API."
     }
   ]
 }

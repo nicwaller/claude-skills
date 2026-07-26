@@ -1,0 +1,9 @@
+{
+  "name": "pangolin",
+  "version": "0.1.0",
+  "description": "Manage Pangolin (pangolin.net) public resources, targets, health checks, and access policies via its REST API.",
+  "author": {
+    "name": "Nic Waller",
+    "email": "nicwaller@gmail.com"
+  }
+}
