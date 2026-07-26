@@ -5,11 +5,5 @@
     "name": "Nic Waller",
     "email": "nicwaller@gmail.com"
   },
-  "plugins": [
-    {
-      "name": "hello-world",
-      "source": "./plugins/hello-world",
-      "description": "A minimal example plugin with a hello-world skill."
-    }
-  ]
+  "plugins": []
 }
