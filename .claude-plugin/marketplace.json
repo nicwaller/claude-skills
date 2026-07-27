@@ -15,6 +15,11 @@
       "name": "pangolin",
       "source": "./plugins/pangolin",
       "description": "Manage Pangolin (pangolin.net) public resources, targets, health checks, and access policies via its REST API."
+    },
+    {
+      "name": "forgejo",
+      "source": "./plugins/forgejo",
+      "description": "Use the fgj CLI to manage pull requests, issues, repositories, releases, labels, milestones, and Actions on Forgejo instances (including Codeberg)."
     }
   ]
 }

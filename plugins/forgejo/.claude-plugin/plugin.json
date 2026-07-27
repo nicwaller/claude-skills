@@ -1,0 +1,9 @@
+{
+  "name": "forgejo",
+  "version": "0.1.0",
+  "description": "Explains basic usage of the fgj CLI for interacting with Forgejo instances (including Codeberg): pull requests, issues, releases, labels, milestones, and Actions.",
+  "author": {
+    "name": "Nic Waller",
+    "email": "nicwaller@gmail.com"
+  }
+}
